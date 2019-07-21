@@ -31,6 +31,14 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
+
+/* ---- particles.js container ---- */
+
 ol, ul {
 	list-style: none;
 }
